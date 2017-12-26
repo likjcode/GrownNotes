@@ -1,7 +1,7 @@
 package cn.likj.second;
 
 /**
- * Hello world!
+ * 测试分支!
  *
  */
 public class App 
